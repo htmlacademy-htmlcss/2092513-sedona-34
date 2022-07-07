@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Erika Sinelnikova](https://up.htmlacademy.ru/htmlcss/34/user/2092513).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктория Куликова](https://htmlacademy.ru/profile/id293745).
 
 ---
 
